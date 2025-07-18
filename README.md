@@ -112,11 +112,9 @@ Connect your ADXL345 sensor to your Arduino:
 
 ## **🤝 Contributing**
 
-Contributions, issues, and feature requests are welcome\! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/your-repo-name/issues).
+Contributions, issues, and feature requests are welcome\!
 
-## **📄 License**
 
-This project is open-sourced under the [MIT License](https://www.google.com/search?q=LICENSE).
 
 ## **📧 Contact**
 
